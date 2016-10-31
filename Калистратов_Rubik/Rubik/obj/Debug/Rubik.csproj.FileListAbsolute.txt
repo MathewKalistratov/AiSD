@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Rubik\Rubik\bin\Debug\Rubik.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Rubik\Rubik\bin\Debug\Rubik.exe
+c:\users\user\documents\visual studio 2013\Projects\Rubik\Rubik\bin\Debug\Rubik.pdb
+c:\users\user\documents\visual studio 2013\Projects\Rubik\Rubik\obj\Debug\Rubik.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Rubik\Rubik\obj\Debug\Rubik.exe
+c:\users\user\documents\visual studio 2013\Projects\Rubik\Rubik\obj\Debug\Rubik.pdb
